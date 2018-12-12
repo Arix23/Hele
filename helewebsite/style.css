@@ -1,0 +1,27 @@
+body {
+	background-image: url(background.jpg);
+	background-size: cover;
+}
+.jumbotron {
+	font-family: Montserrat;
+	text-align: center;
+	margin: auto;
+	width: 900px;
+	padding-bottom: 32px;
+	padding-top: 32px;
+
+}
+.btn-primary {
+	display: flex;
+	margin: auto;
+	justify-content: center;
+	background-color: #87CC87;
+	border-color: #87CC87;
+}
+.btn-primary:hover {
+	background-color: #4FAA4F;
+	border-color: #4FAA4F;
+}
+.mc_embeded_signup {
+	width: 700px;
+}
